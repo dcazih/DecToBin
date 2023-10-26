@@ -11,7 +11,7 @@ def dec2bin(decimal):
     binary_list = []
 
     # Create binary subtractors
-    for bin_nums in binary_test_list.:
+    for bin_nums in binary_test_list:
         if bin_nums <= dec:
             binary_list.append(bin_nums)
     binary_numbers = [0 for i in binary_list]
